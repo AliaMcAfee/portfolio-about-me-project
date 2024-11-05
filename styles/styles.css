@@ -103,3 +103,15 @@ img {
 .content {
   margin: 30px;
 }
+
+.logo {
+  max-width: 150px;
+}
+
+.nav {
+  padding: 20px 0px;
+}
+
+.nav-item {
+  padding: 10px;
+}
