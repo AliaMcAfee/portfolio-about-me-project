@@ -64,6 +64,11 @@ img {
   border: 1px solid var(--branding-color);
 }
 
+.subtitle p {
+  font-weight: bold;
+  font-size: 36px;
+}
+
 .project-description {
   padding: 120px 60px;
 }
